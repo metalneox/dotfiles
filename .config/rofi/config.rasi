@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,ssh,combi,calc";
+}
+
+@theme "~/.config/rofi/themes/onedark.rasi"
+
