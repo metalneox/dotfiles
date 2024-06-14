@@ -1,0 +1,47 @@
+#Normal:
+
+base-devel
+net-tools
+ttf-hack-nerd
+ttf-dejavu
+ttf-jetbrains-mono-nerd
+git
+starship
+zsh 
+zsh-autosuggestions 
+zsh-syntax-highlighting 
+#zsh-theme-powerlevel10k 
+libnotify
+
+hypridle
+hyprlock
+nwg-look
+qt6ct
+fastfetch
+papirus-icon-theme
+
+#rofi
+rofi-wayland
+
+#Beutiful app for screenshot
+flameshot
+
+
+#AUR:
+#wlogout
+#bibata-cursor-theme-bin
+#cava
+#eww 
+#aylurs-gtk-shell #alternative eww
+#nordic-theme
+
+
+#To be evaluated
+nerd-fonts-hack 
+ttf-weather-icons 
+brave-bin 
+
+
+#SPECIALI
+#yay manual install
+
