@@ -1,5 +1,5 @@
 ## Install Normal Packages
-pacman -S --needed --noconfirm - <packages
+sudo pacman -S --needed --noconfirm - <packages
 
 #Script install yay
 
