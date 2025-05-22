@@ -4,6 +4,7 @@ ttf-hack-nerd
 ttf-dejavu
 ttf-jetbrains-mono-nerd
 git
+github-cli
 starship
 zsh
 zsh-autosuggestions
@@ -16,7 +17,6 @@ nwg-look
 qt6ct
 fastfetch
 papirus-icon-theme
-github-cli
 rofi-wayland
 flameshot
 swaync
@@ -24,3 +24,5 @@ networkmanager
 swww
 lua51
 luarocks
+exa
+man-pages-it
