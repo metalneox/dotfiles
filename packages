@@ -21,6 +21,7 @@ rofi-wayland
 flameshot
 swaync
 networkmanager
+waybar
 swww
 lua51
 luarocks
