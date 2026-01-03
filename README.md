@@ -1,6 +1,6 @@
 ![screenshot](https://raw.githubusercontent.com/metalneox/dotfiles/master/Screenshots/example.png)
 
-#Refactory DOTFILE & Migration HyprLand
+# Refactory DOTFILE & Migration HyprLand
 
 ### Todo List
   - [x]  Installation script (Alpha Test)
