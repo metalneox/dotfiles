@@ -1,9 +1,24 @@
 config_version = 14
 
 [bar.default]
+center = [ "workspaces" ]
+end = [
+    "media",
+    "tray",
+    "notifications",
+    "clipboard",
+    "network",
+    "bluetooth",
+    "volume",
+    "brightness",
+    "battery",
+    "clock",
+    "session"
+]
 font_family = "Hack Nerd Font Propo"
 margin_ends = 0
 scale = 1.4000000134110451
+start = [ "launcher", "control-center", "wallpaper" ]
 
 [brightness]
 enable_ddcutil = true
@@ -57,3 +72,21 @@ shell_mode = "dark"
 directory = "/home/metalneox/Background"
 directory_dark = "/home/metalneox/Background"
 directory_light = "/home/metalneox/Background"
+
+    [wallpaper.default]
+    path = "/home/metalneox/Background/warcraft_mage.jpeg"
+
+    [wallpaper.last]
+    path = "/home/metalneox/Background/warcraft_mage.jpeg"
+
+    [wallpaper.monitors.HDMI-A-1]
+    path = "/home/metalneox/Background/warcraft_mage.jpeg"
+
+[widget.brightness]
+enabled = false
+
+[widget.control-center]
+enabled = false
+
+[widget.network]
+enabled = false
