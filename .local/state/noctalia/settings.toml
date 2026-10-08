@@ -1,7 +1,7 @@
 config_version = 14
 
 [bar.default]
-center = [ "workspaces" ]
+center = [ "audio_visualizer", "workspaces", "audio_visualizer" ]
 end = [
     "media",
     "tray",
@@ -18,10 +18,16 @@ end = [
 font_family = "Hack Nerd Font Propo"
 margin_ends = 0
 scale = 1.4000000134110451
-start = [ "launcher", "control-center", "wallpaper" ]
+start = [ "launcher", "control-center", "wallpaper", "weather" ]
 
 [brightness]
 enable_ddcutil = true
+
+[calendar]
+enabled = true
+
+[location]
+address = "Poggio Torriana"
 
 [lockscreen_widgets]
 enabled = false
@@ -60,6 +66,9 @@ widget_order = [ "lockscreen-login-box@HDMI-A-1" ]
         show_unlock_hint = true
         show_weather = true
 
+[shell]
+show_location = false
+
 [theme]
 builtin = "Tokyo-Night"
 mode = "light"
@@ -87,6 +96,9 @@ enabled = false
 
 [widget.control-center]
 enabled = false
+
+[widget.media]
+min_length = 8
 
 [widget.network]
 enabled = false
